@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#messages {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.room-item {
+    cursor: pointer;
+}
+
+.room-item:hover {
+    background-color: #e9ecef;
+}
+
+#current-room {
+    color: #007bff;
+}
